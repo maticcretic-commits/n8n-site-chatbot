@@ -79,3 +79,9 @@ curl -s -X POST http://localhost:8080 \
 
 Demo code for learning only. The "BrightSmile Dental Clinic" business,
 prices, phone number, and hours are fictional. No real client data is involved.
+
+## Support My Work
+
+If you find this project useful, consider supporting my work with a Bitcoin donation:
+
+`BC1Q6Q75K8ZJXVW7W02LMDPRPY6XX6QK4LZZ2RMVAY`
