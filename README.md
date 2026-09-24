@@ -1,5 +1,10 @@
 # n8n Site Chatbot (practice project)
 
+[![GitHub stars](https://img.shields.io/github/stars/maticcretic-commits/n8n-site-chatbot?style=social)](https://github.com/maticcretic-commits/n8n-site-chatbot/stargazers)
+[![Last commit](https://img.shields.io/github/last-commit/maticcretic-commits/n8n-site-chatbot)](https://github.com/maticcretic-commits/n8n-site-chatbot/commits/main)
+[![Cost: Free](https://img.shields.io/badge/cost-%E2%82%B90-brightgreen)](https://github.com/maticcretic-commits/n8n-site-chatbot)
+
+
 > **Practice/demo project for learning** — modeled on the type of work in a real
 > $250 Upwork posting ("Chatbot help on n8n": build a knowledge-base chatbot
 > that loads on a Google Site, using n8n).
